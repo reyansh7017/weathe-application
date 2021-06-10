@@ -1,0 +1,8 @@
+#weatherResults{
+    background-color: #c9ee82;
+    font-family: 'Roboto mono',sans-serif;
+    font-size: 30px;
+    padding: 60px;
+    display: inline-block;
+    margin: 20px;
+}
